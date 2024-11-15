@@ -7,8 +7,8 @@ pygame.init()
 
 #    Configurações do jogo, como tamanho de tela e cores selecionadas
 
-SCREEN_WIDTH, SCREEN_HEIGHT = 1000, 800
-TILE_SIZE = 95
+SCREEN_WIDTH, SCREEN_HEIGHT = 1500, 800
+TILE_SIZE = 100
 FPS = 30
 WHITE, BLACK, RED = (255, 255, 255), (0, 0, 0), (196, 46, 47)
 
