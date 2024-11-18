@@ -18,4 +18,4 @@ https://replit.com/@isabelecoelho/quebra-cabeca-hp?v=1
 Isabele Coelho - https://github.com/isabelecoelho, Maria Feltrin - https://github.com/feltrin08 e Samara Guimarães - https://github.com/sahhguimaraes
 # Vídeos
 ***Explicação da programação*** - https://drive.google.com/file/d/1eNPGeIcJU3luO8n_mMBSpPbGGDw0RnZn/view?usp=sharing
-***Como funciona o jogo*** - https://drive.google.com/file/d/10FCZB5r-w2UtolVkGr2XujGsewNQJLcy/view?usp=drive_link
+e ***Como funciona o jogo*** - https://drive.google.com/file/d/10FCZB5r-w2UtolVkGr2XujGsewNQJLcy/view?usp=drive_link
