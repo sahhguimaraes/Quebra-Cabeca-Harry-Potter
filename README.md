@@ -16,3 +16,6 @@ A criação do jogo foi dividida em algumas etapas.
 https://replit.com/@isabelecoelho/quebra-cabeca-hp?v=1
 # GitHub das participantes:
 Isabele Coelho - https://github.com/isabelecoelho, Maria Feltrin - https://github.com/feltrin08 e Samara Guimarães - https://github.com/sahhguimaraes
+# Vídeos
+***Explicação da programação*** - https://drive.google.com/file/d/1eNPGeIcJU3luO8n_mMBSpPbGGDw0RnZn/view?usp=sharing
+***Como funciona o jogo*** - https://drive.google.com/file/d/10FCZB5r-w2UtolVkGr2XujGsewNQJLcy/view?usp=drive_link
